@@ -8,7 +8,7 @@ int main() {
     return 0;
 }
 
-●parte2
+//parte2//
 #include <stdio.h>
 int main() {
     int i = 1;
@@ -19,7 +19,7 @@ int main() {
     return 0;
 }
 
-Atividade2
+//Atividade2//
 
 #include <stdio.h>
 int main() {
@@ -45,7 +45,7 @@ int main() {
     return 0;
 }
 
-Atividade3
+//Atividade3//
 
 #include <stdio.h>
 
@@ -61,7 +61,7 @@ int main() {
     return 0;
 }
 
-Atividade4
+//Atividade4//
 
 #include <stdio.h>
 
@@ -73,7 +73,7 @@ int main() {
     }
     printf("Soma de 1 ate 100 = %d\n", soma); // resultado 5050
 
-    ● Fatorial
+    // Fatorial//
     int n;
     long long fatorial = 1; // começa em 1
     printf("\nDigite n para fatorial: ");
@@ -87,7 +87,7 @@ int main() {
     return 0;
 }
 
-Atividade5
+//Atividade5//
 
 #include <stdio.h>
 
